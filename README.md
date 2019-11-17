@@ -6,7 +6,7 @@
 
 ## Passed events
 
-[14 Nov 2019 - First SvelteJS meetup in Amsterdam](14 Nov 2019 - First SvelteJS meetup in Amsterdam/README.md)
+[14 Nov 2019 - First SvelteJS meetup in Amsterdam](14-Nov-2019-First-event-Amsterdam/README.md)
 
 ## Contact
 
