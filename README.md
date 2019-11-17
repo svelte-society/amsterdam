@@ -2,7 +2,7 @@
 
 ## Upcoming events
 
-[9 Jan 2020Nov 2019](https://www.meetup.com/Amsterdam-SvelteJS/events/266487640/)
+[9 Jan 2020](https://www.meetup.com/Amsterdam-SvelteJS/events/266487640/)
 
 ## Passed events
 
