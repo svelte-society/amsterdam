@@ -1,4 +1,8 @@
-# SvelteJS meetup in Amsterdam
+![SvelteJS meetup in Amsterdam](svelte-amsterdam-logo.png)
+
+[Submit your talk from upcoming event](https://forms.gle/3r2VKRenW8cpbxcp8)
+
+[Organiser: @legkoletat](https://twitter.com/legkoletat)
 
 ## Upcoming events
 
@@ -7,9 +11,3 @@
 ## Passed events
 
 [14 Nov 2019 - First SvelteJS meetup in Amsterdam](14-Nov-2019-First-event-Amsterdam/README.md)
-
-## Contact
-
-[Submit your talk from upcoming event](https://forms.gle/3r2VKRenW8cpbxcp8)
-
-[Organiser: @legkoletat](https://twitter.com/legkoletat)
