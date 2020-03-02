@@ -4,7 +4,7 @@
 
 [Svelte meetup Amsterdam on downtomeet.com](https://www.downtomeet.com/Svelte-Meetup-Amsterdam)
 
-[Organiser: @legkoletat](https://twitter.com/legkoletat)
+[Organiser: @shershen08](https://twitter.com/shershen08)
 
 ## Upcoming events
 
