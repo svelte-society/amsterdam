@@ -8,9 +8,11 @@
 
 ## Upcoming events
 
-[11th June 2020](https://www.meetup.com/Amsterdam-SvelteJS/events/266919637/)
+Date: TBD | Submit your talk: https://forms.gle/3r2VKRenW8cpbxcp8 | Ping me @shershen08 for questions
 
 ## Passed events
+
+[11th June 2020](https://www.meetup.com/Amsterdam-SvelteJS/events/266919637/)
 
 [29 January 2020 - Svelte in production](29-Jan-2020-Svelte-in-production/README.md)
 
